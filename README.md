@@ -147,9 +147,9 @@ Operational Efficiency: Fully automated ETL flows and centralized reporting redu
 2️⃣ Map Dashboard Preview
 ![Map Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/Map%20Dashboard.png)
 
-3️⃣ Product Detail Dashboard Preview
+3️⃣ Product Details Dashboard Preview
 ![Product Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/Product%20Details%20Dashboard.png)
 
-4️⃣ Customer Detail Dashboard Preview
+4️⃣ Customer Details Dashboard Preview
 ![Customer Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/Customer%20Details%20Dashboard.png)
 
