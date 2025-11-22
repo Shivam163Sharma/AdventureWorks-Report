@@ -1,3 +1,5 @@
+# AdventureWorks Project
+
 🚴‍♂️ AdventureWorks: Cycles Sales & Operations Analytics Dashboard
 
 A comprehensive and interactive Power BI reporting solution designed to analyze sales performance, product trends, customer behavior, and regional growth for AdventureWorks — a global manufacturer of bicycles and cycling accessories.
@@ -139,10 +141,15 @@ Operational Efficiency: Fully automated ETL flows and centralized reporting redu
 
 🖼️ 6. Screenshots / Dashboard Previews
 
-1️⃣ Executive Dashboard
+1️⃣ Executive Dashboard Preview
+![Executive Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/AdventureWorks%20Report%20Dashboard.png)
 
-2️⃣ Map Dashboard
+2️⃣ Map Dashboard Preview
+![Map Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/Map%20Dashboard.png)
 
-3️⃣ Product Detail Dashboard
+3️⃣ Product Detail Dashboard Preview
+![Product Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/Product%20Details%20Dashboard.png)
 
-4️⃣ Customer Detail Dashboard
+4️⃣ Customer Detail Dashboard Preview
+![Customer Dashboard](https://github.com/Shivam163Sharma/AdventureWorks-Report/blob/main/Customer%20Details%20Dashboard.png)
+
